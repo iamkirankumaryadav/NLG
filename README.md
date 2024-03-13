@@ -1,4 +1,4 @@
-# NLG
+# NLG 📝
 
 ### **Natural Language Generation**
 
