@@ -46,6 +46,8 @@
 - NLG generates language that sounds likes human. NLU makes sure that human-sounding language actually means something. 
 - If the NLU does its job, you get a response from a chatbot or voice assistant that makes perfect sense.
 
+### **NLP = NLU + NLG**
+
 ### Applications:
 
 1. **Chatbots and Virtual Assistants:**
@@ -70,3 +72,10 @@
 
 7. **Hyper-Personalization:** 
 - NLG can tailor content and recommendations based on a person's preferences and past behavior, leading to a more engaging experience.
+
+NLP | NLU | NLG
+:--- | :--- | :---
+Reading Language | Understanding Language | Writing Language
+Processing and Analyzing language data | Interpreting and understanding language input | Producing logical, meaningful and appropriate text or speech
+Converts unstructured data to structured data | It reads data and create a structure | Writes well formatted structured data
+Smart Assistance, Language Translation, Text Analysis | Speech Recognition, Sentiment Analysis | Chat Bots, Voice Assistance
