@@ -4,7 +4,7 @@
 
 - **NLG** is a core component of how **Generative AI (GenAI)** works.
 - **NLG** is the capability of **AI** to turn data into natural language. So, NLG is **AI** that can communicate with humans.
-- Chatbots, voice assistants, and AI writing tools all use NLG. Basically, any AI system that's producing text is leveraging NLG in some way to do it.
+- Chatbots, voice assistants, and AI writing tools all use NLG. Basically, any AI system that's producing text is leveraging NLG.
 - e.g.Open AI ChatGPT, Google Gemini, Microsoft Copilot, etc.
 
 ### **How does NLG work?**
