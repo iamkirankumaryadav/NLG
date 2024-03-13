@@ -78,4 +78,4 @@ NLP | NLU | NLG
 Reading Language | Understanding Language | Writing Language
 Processing and Analyzing language data | Interpreting and understanding language input | Producing logical, meaningful and appropriate text or speech
 Converts unstructured data to structured data | It reads data and create a structure | Writes well formatted structured data
-Smart Assistance, Language Translation, Text Analysis | Speech Recognition, Sentiment Analysis | Chat Bots, Voice Assistance
+Smart assistance, language translation, text analysis | Speech recognition, sentiment analysis | Chat bots, voice assistance
